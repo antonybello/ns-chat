@@ -1,0 +1,6 @@
+<Page loaded="pageLoaded">
+  <StackLayout id="layout">
+    <TextField hint="Type a message..." id="task" />
+    <Button id="go" text="Send" tap="send"></Button>
+  </StackLayout>
+</Page>
